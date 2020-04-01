@@ -3,8 +3,6 @@ Audi R8
 Tesla
 BMW 3
 BMW X6
-<<<<<<< Updated upstream
 Mercedes S500
-=======
->>>>>>> Stashed changes
 Kia Optima
+Lexus GX470
